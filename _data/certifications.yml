@@ -1,0 +1,38 @@
+# Associations
+# comment out the urls if you do not wish to display them
+
+- organization: Amazon Web Services
+  certs:
+    - cert: AWS Certified Solutions Architect - Associate
+      year: Mar, 2016
+      url: http://aws.amazon.com/certification/
+    - cert: AWS Certified SysOps Administrator - Associate
+      year: Mar, 2016
+      url: http://aws.amazon.com/certification/
+    - cert: AWS Certified Developer - Associate
+      year: Feb, 2016
+      url: http://aws.amazon.com/certification/
+- organization: Red Hat
+  certs:
+    - cert: Red Hat Certified Specialist in Enterprise Application Server Administration
+      year: Jun, 2017
+      url: https://www.redhat.com/rhtapps/certification/verify/?certId=160-234-084&isSearch=False&verify=Verify
+    - cert: Red Hat Certified System Administrator
+      year: Nov, 2016
+      url: https://www.redhat.com/rhtapps/certification/verify/?certId=160-234-084&isSearch=False&verify=Verify
+- organization: Oracle
+  certs:
+    - cert: Oracle Certified Weblogic Server 11g System Administrator
+      year: Dec, 2013
+- organization: Sun Microsystems
+  certs:
+    - cert: Sun Certified Programmer for the Java Platform 1.4
+      year: Sep, 2008
+- organization: Human Resource Development Service of Korea
+  certs:
+    - cert: Engineer Information Processing
+      year: Sep, 2008
+- organization: NCEES
+  certs:
+    - cert: Fundamentals of Engineering - other disciplines
+      year: Oct, 2011

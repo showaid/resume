@@ -96,6 +96,28 @@
       <!-- end Education -->
       {% endif %}
 
+      {% if site.resume_section_certifications %}
+      <!-- begin Certification -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Certifications</h2>
+        </header>
+
+        {% for certification in site.data.certifications %}
+        <div class="resume-item" itemscope itemprop="memberOf" itemtype="http://schema.org/Organization">
+          <h3 class="resume-item-title" itemprop="name">{{ certification.organization }}</h3>
+          <ul class="resume-item-list">
+          {% for cert in certification.certs %}
+          <li itemprop="description">{% if cert.url %}<a href="{{ cert.url }}">{{ cert.cert }}</a>{% else %}{{ cert.cert }}{% endif %} &bull; {{ cert.year }}</li>
+          {% endfor %}
+        </ul>
+        </div>
+        {% endfor %}
+
+      </section>
+      <!-- end Certification -->
+      {% endif %}
 
       {% if site.resume_section_projects %}
       <!-- begin Projects -->
@@ -122,7 +144,7 @@
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Skills</h2>
+          <h2>Personality Traits</h2>
         </header>
         {% for skill in site.data.skills %}
         <div class="resume-item">
@@ -232,8 +254,7 @@
       {% endif %}
 
       <footer class="page-footer">
-        <p class="footer-line">Made by <a href="http://twitter.com/jglovier">@jglovier</a>. Fork me on <a href="https://github.com/jglovier/resume-template">GitHub</a>.</p>
-        <p class="footer-line">If this is your live resume, you can modify or remove this part. ;-)</p>
+        <p class="footer-line">This resume is powered by <a href="https://github.com/jglovier/resume-template">resume template</a> and <a href="https://jekyllrb.com/">jekyll</a>.</p>
       </footer>
 
     </div>
