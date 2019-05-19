@@ -1,24 +1,31 @@
 # Jobs
-# VP of Global Communications
+# DevOps Engineering"
 - company: Cyberlogitec Co., LTD — Seoul, South Korea
   position: Software Architect
-  duration: Aug, 2015 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+  duration: Aug, 2017 &mdash; Present
+  summary: Serve as software architect/DevOps engineer, <ul><li>Configuring, operating DevOps platform/software to make the company adopt DevOps practice. e.g. Gitlab, Nexus, Serena Dimensions, Maven, etc.</li><li>Applying maven project management practice to company's Java projects and migrating it to the DevOps platfrom.</li><li>Led a project to implement <a href="https://github.com/Erudika/scoold">scoold</a> open source software in the company.</li><li>Contributing to the scoold project to <a href="https://github.com/Erudika/scoold/commits?author=showaid">solve several problems</a> including Korean translation.</li></ul>
+
+# Software Architect
+- company: Cyberlogitec Co., LTD — Seoul, South Korea
+  position: Software Architect
+  duration: Aug, 2015 &mdash; Aug, 2017
+  summary: Served as a key member of Software & data architecture team and as a software architect of OPUS Terminal which is a terminal operating system(TOS).<ul><li>Taking charge of software archiet role to solve various technical issues that development team facing.</li><li>Participating in the logistics industry blockchain consortium that Samsung SDS led.</li><li>Taking charge of various in-house software such as <a href="https://www.3rabbitz.com/r/home/book">online document system</a>, test coverage management system, etc. Revising and enhancing the system policy that helps other teams to use the system efficiently.</li><li>Implementing, delivering software environment for projects which needs to consider overall system architecture including middleware, framework, external system, database and continuous integration.</li></ul>
 
 # Infrastructure Manager CLA
 - company: Cyberlogitec America Inc. — NJ, U.S.
   position: IT Infrastructure Manager
   duration:  Jun, 2013 &mdash; Aug, 2015
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+  summary:  I was sent to California, U.S. as IT infrastructure manager. The role was to manage terminal operating system that Cyberlogitec delivered. I took charge of overall IT assets including server H/W, operating system and system software of the customer.<ul><li>Performing routine system maintenance, monitoring, backup, and problem solving.</li><li>Providing system status report to help developers to identify bugs/flaws of the system.</li><li>Studing and implementing open source software monitoring system to reduce maintenance cost.</li><li> Superving infrastructure part members.</li></ul>
 
 # Middleware Engineer
 - company: Cyberlogitec Co., LTD — Seoul, South Korea
   position: Middleware Engineer/Technical Architect
   duration:   Jan, 2009  &mdash; Jun, 2013
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+  summary: Taking charge middleware software of Hanjin Shipping.<ul><li>General system maintenance, monitoring, and problem solving.</li><li>Supporting several projects to overcome architectural problem and issues to implement successful middleware architecture.</li></ul>
+
 
 # IAM/CRM System Engineer
 - company: Cyberlogitec Co., LTD — Seoul, South Korea
   position: Junior System Engineer
   duration:   Jan, 2008  &mdash; Jan, 2009
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+  summary: Served as a system administrator and engineer IAM and CRM system of Hanjin Shipping. <ul><li>Participating in the company's IAM implementation project.</li></ul>
